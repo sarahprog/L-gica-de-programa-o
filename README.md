@@ -1,2 +1,2 @@
-# L-gica-de-programa-o
+# Logica-de-programacao
 Programação Sequencial
